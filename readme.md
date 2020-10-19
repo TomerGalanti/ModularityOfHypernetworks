@@ -1,6 +1,6 @@
-# Domain Intersection and Domain Difference ([arxiv](https://arxiv.org/abs/1908.11628)).
+# On the Modularity of Hypernetworks ([arxiv](https://arxiv.org/abs/2002.10006)).
 
-Pytorch Implementation of "Domain Intersection and Domain Difference" (ICCV 2019)
+Pytorch Implementation of "On the Modularity of Hypernetworks" (NeurIPS 2020)
 
 ## Prerequisites
 - Python 3.6+
