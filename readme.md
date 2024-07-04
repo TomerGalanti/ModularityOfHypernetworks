@@ -1,6 +1,6 @@
 # On the Modularity of Hypernetworks ([arxiv](https://arxiv.org/abs/2002.10006)).
 
-Pytorch Implementation of "On the Modularity of Hypernetworks" (NeurIPS 2020)
+Pytorch Implementation of the experiments in "On the Modularity of Hypernetworks" (NeurIPS 2020)
 
 ## Prerequisites
 - Python 3.6+
